@@ -1,0 +1,5 @@
+package com.kafka.config;
+
+public class MyConfig {
+
+}

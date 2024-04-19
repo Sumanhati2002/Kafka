@@ -1,0 +1,6 @@
+package com.kafka.payload;
+
+public class Payload {
+
+	public static final String LOCATION_TOPIC_NAME="location-updated-topic";
+}
